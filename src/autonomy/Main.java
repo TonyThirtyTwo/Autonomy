@@ -183,6 +183,7 @@ public class Main extends JFrame {
 							
 							btnSelectFile.setEnabled(true);
 							btnBegin.setEnabled(true);
+							btnBegin.setText("Begin");
 							lblStatus.setText("Status: Ready (Finished last run)");
 							
 						} catch (IOException e1) {
