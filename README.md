@@ -1,6 +1,6 @@
 # Autonomy
  Automated message sending for platforms such as Discord
- Download: https://github.com/TonyThirtyTwo/Autonomy/raw/main/Autonomy.jar
+ Download: https://github.com/tonypepperoni43/Autonomy/raw/main/Autonomy.jar
  
  # How to use
  Select a text file, adjust settings to your preference, begin...
